@@ -51,7 +51,7 @@
          positivos(num-1)
       }
  }
- positivos(100);
+ positivos(100);esto
 
  const positivosSuma = (num,suma) =>{
    if(num<0){

@@ -43,3 +43,4 @@ const ejercicio6 = (a,b,c) => {
 }
 
 console.log(ejercicio1(4,5) + ejercicio2(9,7) + ejercicio3(20)+"la cantidad de numeros de 3 cifras es: "+ ejercicio4(999,0)+ ejercicio5(5,7) + ejercicio6(6,4,5))
+
